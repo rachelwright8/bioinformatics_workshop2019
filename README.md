@@ -3,6 +3,8 @@
 
 buoyantWeightAnalysis_base.R = script in base R (no packages loaded) to analyze buoyant weight data
 
+buoyantWeightAnalysis_tidy.R = script using tidyverse tools to analyze buoyant weight data
+
 buoyantWeight.csv = buoyant weight data
 
 ## Project Description:
