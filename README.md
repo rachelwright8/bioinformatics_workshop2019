@@ -7,6 +7,14 @@ buoyantWeightAnalysis_tidy.R = script using tidyverse tools to analyze buoyant w
 
 buoyantWeight.csv = buoyant weight data
 
+deseq2.R = DESeq2 differential gene expression analysis script
+
+DESeq2_markdown.html = HTML of DESeq2 analysis with summary results and figures plotted
+
+countsTable.csv = gene count matrix. Rows are genes ("isogroups"). Columns are samples.
+
+conds.csv = a data frame describing the samples
+
 ## Project Description:
 Montastraea cavernosa disease susceptibility experiment
 
